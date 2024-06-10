@@ -16,7 +16,6 @@ body {
 .container {
     margin-top: 3rem;
     border-radius: 1rem;
-    box-shadow: 0 0 20px red;
     padding: 1rem;
 }
 
