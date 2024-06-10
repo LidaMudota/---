@@ -29,7 +29,6 @@ body {
 
 .game-card {
     background: linear-gradient(to bottom, #f8f9fa, #e9ecef);
-    border: 0.1875rem solid rgba(0, 0, 0, 0.125);
 }
 
 button {
