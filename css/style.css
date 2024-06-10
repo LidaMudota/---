@@ -28,6 +28,7 @@ body {
 
 .game-card {
     background: linear-gradient(to bottom, #f8f9fa, #e9ecef);
+    background-color: whitesmoke;
 }
 
 button {
